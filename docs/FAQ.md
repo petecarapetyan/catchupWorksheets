@@ -21,12 +21,24 @@
       - Additonal reporting
 
 ### What if I never catch up with the agreed upon schedule?:
- 
-    - hmm something here about as long as it's within 12 months
+    Our goal is to help you complete the Bootcamp on-time and we will do everything in our power to make this happen. But ultimately we cannot control you and your schedule. If you're not able to complete the Bootcamp within the agreed upon schedule, then we do have a special offer that we can extend to you.
+    
+    This offer is called the "Pay as you go" program, and it allows you to continue to access ALL of the Bootcamp services / benefits via a monthly subscription. This subscription is discounted by about 70% for current Bootcamp students, and our company does not make any profit off of this amount (in fact we take a loss on this). 
+    
+    This discounted "Pay as you go" offer is $200/mo and as long as you're subscribed to this offer, you will continue to be able to join all of our check-in calls, all the catch-up group calls and you'll continue to have access to Slack. This is everything you'll need to get through the Bootcamp and come out the other end as a graduate.
+    
+    Once you've graduated, you'll no longer need to stay subscribed to this "Pay as you go" offer, and you'll receive all the benefits of graduation, including the career services, job guarantee and more.
 
 ### What if I never complete the bootcamp?:
-  
-    - hmmm
+    While rare, this can happen if a student decides to "throw in the towel" and give up on their hopes of getting a job as a coder. 
+    
+    We hate to see this as an outcome because it's not good for either party. 
+    
+    First, Coders Campus wants to be a Bootcamp with one of the highest success rates in the entire industry, and if you do decide to quit, this will bring down that number.
+    
+    Second, you will still be liable to pay back most (if not all) of the tuition, as we do not offer refunds.
+    
+    As you can expect, neither side walks away happy in this scenario, so let us know what we can do to avoid this from being a reality (maybe consider joining our "Pay as you go" offer explained above, or reach out to Trevor on Slack to see if there are ANY other options).
 
 ### Do we have experience with bootcamp students that need special help?:
     We have probably learned as much from our catchup students as we have been able to teach them, in return.
@@ -49,7 +61,7 @@
       - You will still get [...] for finding a job
       - You will still have slack access to your student network
 
-### How much does extended support cost?:
+### How much does extended support (aka Pay as you go offer) cost?:
 
     It is currently priced at $200 monthly
 
